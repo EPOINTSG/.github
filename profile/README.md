@@ -1,7 +1,7 @@
 # EPOINT SYSTEMS PTE LTD
-Epoint Systems is your one-stop solution center from Online Ordering to POS Systems.
-To find out more, simply click on the link below!
-[Contact Us](https://epoint.com.sg/contact-us/)
+Epoint Systems is your one-stop solution center from Online Ordering to POS Systems.  
+To find out more, simply click on the link below!  
+[Contact Us](https://epoint.com.sg/contact-us/)  
 
 <!--
 
